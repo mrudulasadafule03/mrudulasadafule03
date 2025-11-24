@@ -7,7 +7,7 @@
   <a href="mailto:mrudulasadafule03@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-mrudulasadafule03%40gmail.com-EA4335?logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/parassadafule">
+  <a href="https://www.linkedin.com/in/mrudulasadafule/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mrudulasadafule-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
